@@ -1,0 +1,3 @@
+idk = <div><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim voluptates beatae expedita facilis at ducimus, ex iste perferendis rerum provident hic corrupti pariatur ipsa quae rem? Magnam magni eligendi iusto!</p><h1>Random bs go</h1></div>
+
+document.querySelector("body").append(idk);
